@@ -1,5 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/X94a4wAo)
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+
+This is my intro to GitHub assignment, which remember is not graded and is just for learning purposes
+
+--Brian
 
 ## 🤓 Course overview and learning outcomes 
 
